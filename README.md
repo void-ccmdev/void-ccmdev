@@ -1,6 +1,7 @@
 # 💫 About Me:
 I am currently working on my Indie games.<br>I have been using the Godot Engine for 3 years now.<br>I am interested in learning OpenGL and C++ to make my own engine for people who want a simple and clean experinece when making retro games.<br>I am also currenly learning Japanese and Russian alongside English and Czech (my native language btw)<br>I have decent experience in Java, GDScript, C#, Python, HTML & CSS and LuaU (yes the roblox studio lang...)<br>I also have decent experinece with Blender, GIMP and Godot
 
+LinkTree: linktr.ee/ccmdev_
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ccmdev_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ccmdev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:controlcommanddev@gmail.com) 

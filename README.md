@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on my Indie games.<br>I have been using the Godot Engine for 3 years now.<br>I am interested in learning OpenGL and C++ to make my own engine for people who want a simple and clean experinece when making retro games.<br>I am also currenly learning Japanese and Russian alongside English and Czech (my native language btw)<br>I have decent experience in Java, GDScript, C#, Python, HTML & CSS and LuaU (yes the roblox studio lang...)<br>I also have decent experinece with Blender, GIMP and Godot
+/> I am currently working on my Indie games.<br>I have been using the Godot Engine for 3 years now.<br>/> I am interested in learning OpenGL and C++ to make my own engine for people who want a simple and clean experinece when making retro games.<br>/> I am also currenly learning Japanese and Russian alongside English and Czech (my native language btw)<br>/> I have decent experience in Java, GDScript, C#, Python, HTML & CSS and LuaU (yes the roblox studio lang...)<br>/> I also have decent experinece with Blender, GIMP and Godot
 
 
 ## 🌐 Socials:

@@ -79,12 +79,6 @@
 
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=64&section=footer&reversal=false&text=ccmdev_&fontSize=69&fontColor=FFFFFF&fontAlign=50&fontAlignY=81&stroke=-&animation=twinkling&descSize=23&descAlign=50&descAlignY=86&textBg=false&color=gradient"  />
-</div>
-
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/void-ccmdev/void-ccmdev/output/snake.svg" alt="Snake animation" />
